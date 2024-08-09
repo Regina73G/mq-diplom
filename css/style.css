@@ -579,7 +579,7 @@ a {
 }
 /* ------------popup-------------- */
 ._hidden {
-  /* display: none; */т
+  display: none;
 }
 
 .popup {
