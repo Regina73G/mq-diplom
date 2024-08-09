@@ -579,7 +579,7 @@ a {
 }
 /* ------------popup-------------- */
 ._hidden {
-  display: none;
+  /* display: none; */
 }
 
 .popup {
@@ -687,14 +687,14 @@ a {
   height: 18px;
   display: inline-block;
   vertical-align: middle;
-  background-image: url("/svg/form-empty-circle.svg");
+  background-image: url("../svg/form-empty-circle.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 18px 18px;
 }
 
 .radio-check:checked + .radio-check::before {
-  background-image: url("/svg/form-circle.svg");
+  background-image: url("../svg/form-circle.svg");
 }
 
 .feedback-textarea {
