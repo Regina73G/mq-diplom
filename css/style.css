@@ -593,7 +593,7 @@ a {
 }
 /* ------------popup-------------- */
 ._hidden {
-  /* display: none; */
+  display: none;
 }
 
 .popup {
