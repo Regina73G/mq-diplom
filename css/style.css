@@ -816,8 +816,7 @@ a {
   }
 
   .main {
-    /* gap: 41; */
-    width: calc(58% - 25x);
+    width: calc(100% - 25px - 272px);
     margin-right: 25px;
   }
 
@@ -851,7 +850,7 @@ a {
   }
 
   .aside {
-    width: 42%;
+    width: 272px;
   }
 
   .shop-title {
